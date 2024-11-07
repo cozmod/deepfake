@@ -1,0 +1,7 @@
+commit1:
+Done by mehrnaz
+changes:
+Instead of the feature extraction part in the main code of the paper, I replaced the suggested options with Xception.
+I took the Xception code as a reference. And instead of the classifier in the main code, I used SVM. The dataset used is Celeb-DF.
+error:
+download dataset in colab and drive from kaggle
